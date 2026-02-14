@@ -28,7 +28,7 @@ public class TestCase extends BaseTest {
 	    AllureUtil.attachlog("User registered successfully  for email "+email);
 
         Log.info("Registration result message: " + actualResult);
-	    Assert.assertEquals(actualResult, "Your registration completed");
+	    Assert.assertEquals(actualResult,"Your registration completed");
         Log.info("===== Registration Test Completed Successfully =====");
 
 	}
