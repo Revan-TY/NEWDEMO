@@ -1,0 +1,8 @@
+23:33:55 INFO  Log - ===== Registration Test Started =====
+23:33:55 INFO  Log - Navigating to Register page
+23:33:55 INFO  Log - Clicking on Register link on Home page
+23:33:55 INFO  Log - Registering user with email: 
+23:33:55 INFO  Log - Starting user registration
+23:33:57 INFO  Log - User registration form submitted
+23:33:57 INFO  Log - Registration result message: Your registration completed
+23:33:57 INFO  Log - ===== Registration Test Completed Successfully =====

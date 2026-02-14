@@ -1,0 +1,2 @@
+2026-02-14 17:39:54 [main] INFO  demoshop.qa.tests.LoggingTestCase - this is info message
+2026-02-14 17:39:54 [main] ERROR demoshop.qa.tests.LoggingTestCase - this is error message
