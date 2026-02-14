@@ -3,8 +3,8 @@ package demoshop.qa.tests;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+import demoshop.qa.base.BaseTest;
 import demoshop.qa.dataprovider.ExcelDataProvider;
-import orangeHrm.qa.base.BaseTest;
 import orangeHrm.qa.pages.DemoShopHome;
 import orangeHrm.qa.pages.RegisterPage;
 

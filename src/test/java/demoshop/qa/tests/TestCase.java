@@ -4,14 +4,14 @@ import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import orangeHrm.qa.base.BaseTest;
+import demoshop.qa.base.BaseTest;
 import orangeHrm.qa.pages.DemoShopHome;
 import orangeHrm.qa.pages.RegisterPage;
 import orangeHrm.qa.utils.AllureUtil;
 import orangeHrm.qa.utils.Log;
 
 
-public class TestCase extends BaseTest{
+public class TestCase extends BaseTest {
 	@Test  //(retryAnalyzer = orangeHrm.qa.listeners.RetryAnalyzer.class)
 	public void testCase()
 	{   
